@@ -1,6 +1,6 @@
 # Site settings
-title: I'm Vulcan
-email: taoliapp.163.com
+title: vulcan's blog
+email: taoliapp@163.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the developer's blog for taoliapp
 baseurl: "" # the subpath of your site, e.g. /blog/

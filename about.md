@@ -3,9 +3,25 @@ layout: page
 title: About
 permalink: /about/
 ---
+生命不息，奋斗不止。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+不懂网络安全的程序员不是好的架构师。
+不爱技术的管理人员不是一个好的CTO。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+84年生人，程序员爸爸，10年+的编程经验，目前生活在长沙。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+擅长web应用领域和Java语言，同时较为熟悉Python，PHP语言，
+10多年的兼职Linux系统管理员，对网络安全知识有一定的了解，
+大小团队都带过，目前是一基层管理人员。
+
+善于且乐于学习，了解一堆的语言和框架，对新技术很感兴趣，
+工作之外，喜欢带着活泼好动的儿子做运动。
+
+学得越多，发现不懂的越多，所以今年给自己定下的技术学习目标如下：
+
+* 算法和数据结构重新学习 - 学习java.util.concurrent和java.nio.file包中的部分源码
+* 搞懂如何实现一门语言 - 学习Lua的源代码
+* 搞懂如何实现一个数据库 - MongoDB的源码学习
+* 搞懂如何实现虚拟机并且如何优化 - JVM深入技术分析
+
+本博客全部使用vim编写，我的[vim配置](http://github.com/vulcan/vimrc)

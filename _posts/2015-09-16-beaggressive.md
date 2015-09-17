@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你应该更积极而且努力的生活"
+title:  "来深圳两月有感"
 date:   2015-09-16 14:52:02
 categories: life
 ---

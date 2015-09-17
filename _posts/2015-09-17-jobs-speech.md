@@ -5,7 +5,7 @@ date:   2015-09-17 23:52:02
 categories: misc
 ---
 原文太长，今晚重读，依旧振奋，摘录最喜欢的文字如下:
------------
+
 *Stay Hungry. Stay Foolish.*
 
 ## About connecting the dots

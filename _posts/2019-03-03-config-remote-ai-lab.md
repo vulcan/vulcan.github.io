@@ -6,9 +6,8 @@ categories: Machine Learning
 ---
 
 ## 申请一个Azure Machine Learning专用主机
-
-## 使用iPad日常学习的配置
-
+* 使用iPad日常学习的配置，推荐使用Terminus App远程连接服务器
+* 使用iPad远程学习的相关配置参考上一篇博客；
 
 ## Python和VIM配置
 * 把ESC重新映射，因为ipad键盘的ESC没有
@@ -21,3 +20,7 @@ matplotlib实际支持Agg渲染，不需要桌面环境，可以保存图片，�
 backend: Agg
 ```
 Nginx配置为`autoindex on`可浏览文件夹，预览matplotlib产生的图片
+
+## 使用Jupter notebook
+安装Jupter notebook，Jupyter notebook可以远程访问和打开，只需要运行在指定端口上就可以了
+设置中开到了8080端口，需要token或者密码登录；
